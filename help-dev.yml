@@ -3,6 +3,7 @@ server:
 student:
  name: ioi
  age: 3
+jio: jiojio
 management:
  endpoints:
   web:
