@@ -2,3 +2,4 @@ server:
  port: 9098
 student:
  name: ioi
+age: 3
