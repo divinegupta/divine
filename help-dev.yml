@@ -3,10 +3,10 @@ server:
 student:
  name: ioi
  age: 3
-jio: jiojiojiojio
+jio: jio
 management:
  endpoints:
   web:
    exposure:
     include: refresh
-jio9: 99
+jio9: 9900
