@@ -10,4 +10,3 @@ management:
   web:
    exposure:
     include: refresh
-jio9: 99
