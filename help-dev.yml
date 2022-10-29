@@ -3,6 +3,7 @@ server:
 student:
  name: ioi
  age: 3
+ x: 898989
 jio: jiojiojio
 management:
  endpoints:
